@@ -2,7 +2,7 @@
 
 # 🛡️Ornate Armor
 
-![ORNATE ARMOR](https://github.com/deceivedfx/ornatearmor/blob/1.19/imgs/armor1.png)
+![ORNATE ARMOR](imgs/armor1.png)
 ## About
 
 Recreating Gilded Netherite Fabric while adding additional armor sets, items and features that coincide with the armor. 
