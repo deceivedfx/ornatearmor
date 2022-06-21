@@ -1,9 +1,27 @@
-# Fabric Example Mod
 
-## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+# 🛡️Ornate Armor
+
+## About
+
+Recreating Gilded Netherite Fabric while adding additional armor sets, items and features that coincide with the armor. 
+
+## Features
+
+Adds new armor and items such as:
+- Gilded Netherite Helmet
+- Diamond Scrap
+
+To be added:
+- Gilded Netherite
+- Gilded Leather
+- Gilded Iron
+- Gilded Diamond
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Please refer to the LICENSE file for information.
+
+## Credits
+
+@scaldings - https://github.com/scaldings/gilded-netherite-fabric (gilded netherite item textures & inspiration)
