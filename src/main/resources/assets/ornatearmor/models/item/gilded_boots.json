@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures":
+  {
+    "layer0": "ornatearmor:item/gilded_boots"
+  }
+}
